@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/egybest/static/css/main.9304ce49.css",
+    "main.js": "/egybest/static/js/main.027fb4d5.js",
+    "index.html": "/egybest/index.html",
+    "main.9304ce49.css.map": "/egybest/static/css/main.9304ce49.css.map",
+    "main.027fb4d5.js.map": "/egybest/static/js/main.027fb4d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9304ce49.css",
+    "static/js/main.027fb4d5.js"
+  ]
+}
